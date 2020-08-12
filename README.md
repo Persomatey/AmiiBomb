@@ -5,6 +5,7 @@
 
 - <b>AmiiBomb</b> 
   - This is the Amiibomb program folder with the executable 
+  - AmiiBomb Reddit thread [https://www.reddit.com/r/Amiibomb/](https://www.reddit.com/r/Amiibomb/)
 - <b> AmiiboSourceCodes</b> 
   - This is a collection of all amiibo released 
   - This folder is current as of 4/18/2020 
